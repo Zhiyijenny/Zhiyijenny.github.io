@@ -23,13 +23,13 @@ In the meantime, I work with Ruirui Jia on a project looking at the second-langu
 
 ## **Presentations**
 
-'**How do language(s) we know influence how we learn a new language?**' (October 2022). A poster co-presentation with [Mireia Toda Cosi](https://sites.google.com/view/todacosi/home) at the Language Science Day at UMCP.
+'**How do language(s) we know influence how we learn a new language?**' (October 2022). A poster presentation at the Language Science Day at UMCP.
 
 '**How are second-language wordforms connected to their meanings?**' (October 2022). A poster co-presentation with [Ruirui Jia](https://www.researchgate.net/profile/Ruirui-Jia) at the Language Science Day at UMCP.
 
 ‘**Syntactic prediction in L2 learners**.’ (September 2022). A co-presentation with [Shaohua Fang](https://www.researchgate.net/profile/Shaohua-Fang-3) at the SLA seminar in the Second Language Acquisition graduate program at UMCP.
 
-'**The Perception and Production of English fricatives by L2 learners**.' (October 2022). A co-presentation with Joy Maa, Zhe Gao, Xiaomeng Li, and Seth Wiener at the Second Language Research Forum.
+'**The Perception and Production of English fricatives by L2 learners**.' (October 2020). A co-presentation with Joy Maa, Zhe Gao, Xiaomeng Li, and Seth Wiener at [the Second Language Research Forum](https://my.vanderbilt.edu/slrf2020/files/2019/09/Second-Language-Research-Forum-2020_-10.12.pdf).
 
 ## **Publications**
 
