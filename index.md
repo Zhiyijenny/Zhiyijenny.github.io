@@ -1,4 +1,6 @@
 # About
+![my photo](PandaLife.jpg)
+
 I am a second-year [PhD student](https://arhusynergy.umd.edu/graduate-research/VoicesBlog#Secrets) in the [Second Language Acquisition program](https://sllc.umd.edu/directory/zhiyi-jenny-wu) at University of Maryland - College Park (UMCP). I work with [Kira Gor](https://sllc.umd.edu/directory/kira-gor) and [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang). My research interests include the learning and processing of second language phonology, lexical units, and syntax, from both the psycholinguistic and the neurolinguistic perspectives.
 
 **How to pronounce my first name:** /tʂʅ i/ _"Gee-Eee" also works_
