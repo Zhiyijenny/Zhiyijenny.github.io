@@ -1,5 +1,5 @@
 # About
-![my photo](Poster.jpg)
+![my photo](Bruno.jpg)
 
 I am a second-year [PhD student](https://arhusynergy.umd.edu/graduate-research/VoicesBlog#Secrets) in the [Second Language Acquisition program](https://sllc.umd.edu/directory/zhiyi-jenny-wu) at University of Maryland - College Park (UMCP). I work with [Kira Gor](https://sllc.umd.edu/directory/kira-gor) and [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang). My research interests include the learning and processing of second language phonology, lexical units, and syntax, from both the psycholinguistic and the neurolinguistic perspectives.
 
@@ -7,6 +7,7 @@ I am a second-year [PhD student](https://arhusynergy.umd.edu/graduate-research/V
 
 **Email:** zhiyiw1@umd.edu
 
+![my photo](Poster.jpg)
 
 # **Research**
 I'm interested in how the language(s) we already know affect how we process and learn a new language, and how the smaller units of the language are represented in the mind and the brain. 
