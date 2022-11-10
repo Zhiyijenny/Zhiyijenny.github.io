@@ -9,6 +9,7 @@ I am a second-year [PhD student](https://arhusynergy.umd.edu/graduate-research/V
 
 ![my photo](Poster.jpg)
 
+
 # **Research**
 I'm interested in how the language(s) we already know affect how we process and learn a new language, and how the smaller units of the language are represented in the mind and the brain. 
 
