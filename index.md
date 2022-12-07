@@ -17,12 +17,12 @@ I'm interested in how the language(s) we already know affect how we process and 
 
 **First-language Influence on Second-language Processing**
 
-I am currently working on my first Qualifying paper, advised by Dr. Kira Gor and collaborating with Mireia Toda Cosi, for the PhD program on the influence of first-language phonology on the learning of second-language phonology as well as words. I examine and compare learners of Spanish who speak American English and Mandarin Chinese as their first languages. 
+I am currently working with Dr. Gor and [Mireia Toda Cosi](https://sites.google.com/view/todacosi/home) on the learning of second-language phonology as well as words. I examine and compare learners of Spanish who speak American English and Mandarin Chinese as their first languages. 
 
 
 **Semantic Priming Effects in different word processing tasks**
 
-In the meantime, I work with Ruirui Jia on a project looking at the second-language-to-first-language semantic priming effects by using both the more traditional Lexical Decision Task and the less influential Semantic Categorization Task.
+In the meantime, I work with Dr. Jiang on a project looking at the second-language-to-first-language semantic priming effects by using both the more traditional Lexical Decision Task and the less influential Semantic Categorization Task.
 
 
 ## **Presentations**
