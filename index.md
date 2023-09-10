@@ -16,15 +16,17 @@ I'm interested in how the language(s) we already know affect how we process and 
 
 **First-language Influence on Second-language Processing**
 
-I am currently working with Dr. Gor and [Mireia Toda Cosi](https://sites.google.com/view/todacosi/home) on the learning of second-language phonology as well as words. I examine and compare learners of Spanish who speak American English and Mandarin Chinese as their first languages. 
+I am currently working with [Kira Gor](https://sllc.umd.edu/directory/kira-gor) on the learning of nonnative phonology as well as words. I examine and compare learners of Spanish who speak American English and Mandarin Chinese as their first languages. 
 
 
 **Semantic Priming Effects in different word processing tasks**
 
-In the meantime, I work with Dr. Jiang on a project looking at the second-language-to-first-language semantic priming effects by using both the more traditional Lexical Decision Task and the less influential Semantic Categorization Task.
+In the meantime, I work with [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang) on the second-language-to-first-language semantic priming effects by using both the more traditional Lexical Decision Task and the less influential Semantic Categorization Task.
 
 
 ## **Presentations**
+
+'**The role of native phonology in speech perception and phonolexical encoding among Spanish learners.**' (March 2023).An individial paper presentation at _American Association for Applied Linguistics Annual Conference_.
 
 '**How do language(s) we know influence how we learn a new language?**' (October 2022). A poster presentation at the Language Science Day at UMCP.
 
@@ -32,10 +34,9 @@ In the meantime, I work with Dr. Jiang on a project looking at the second-langua
 
 ‘**Syntactic prediction in L2 learners**.’ (September 2022). A co-presentation with [Shaohua Fang](https://www.researchgate.net/profile/Shaohua-Fang-3) at the SLA seminar in the Second Language Acquisition graduate program at UMCP.
 
-'**The Perception and Production of English fricatives by L2 learners**.' (October 2020). A co-presentation with Joy Maa, Zhe Gao, Xiaomeng Li, and Seth Wiener at [the Second Language Research Forum](https://my.vanderbilt.edu/slrf2020/files/2019/09/Second-Language-Research-Forum-2020_-10.12.pdf).
-
 ## **Publications**
 
+**Wu, Zhiyi**, & Hui, Bronson (September 2023). _Using a statistical model to assess how reliable response time differences are_. _OASIS Summary_ of Hui & Wu (2023) in _Studies in Second Language Acquisition_. ([full_text](https://oasis-database.org/concern/summaries/h415pb356?locale=en))
 Hui, Bronson, & **Wu, Zhiyi** (May 2023). _Estimating Reliability for Response Time Difference Measures: Towards a Standardized, Model-based Approach_. Studies in Second Language Acquisition. doi: [10.1017/S027226312300027X](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/estimating-reliability-for-responsetime-difference-measures-toward-a-standardized-modelbased-approach/A00BECC935D1BD4915144F6985193766).
 
 Fang, Shaohua, & **Wu, Zhiyi** (October 2022). _Syntactic prediction in L2 learners: Evidence from English disjunction processing_. International Review of Applied Linguistics in Language Teaching. doi: [0.1515/iral-2021-0223](https://www.degruyter.com/document/doi/10.1515/iral-2021-0223/html?lang=en). ([full text](https://drive.google.com/file/d/1QQyZiB2dOy7eWyPA8qM-15bBe4GB6ZVV/view?usp=sharing))
