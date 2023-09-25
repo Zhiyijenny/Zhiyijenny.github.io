@@ -37,6 +37,7 @@ In the meantime, I work with [Nan Jiang](https://sllc.umd.edu/directory/nan-jian
 ## **Publications**
 
 **Wu, Zhiyi**, & Hui, Bronson (September 2023). _Using a statistical model to assess how reliable response time differences are_. _OASIS Summary_ of Hui & Wu (2023) in _Studies in Second Language Acquisition_. ([full_text](https://oasis-database.org/concern/summaries/h415pb356?locale=en))
+
 Hui, Bronson, & **Wu, Zhiyi** (May 2023). _Estimating Reliability for Response Time Difference Measures: Towards a Standardized, Model-based Approach_. Studies in Second Language Acquisition. doi: [10.1017/S027226312300027X](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/estimating-reliability-for-responsetime-difference-measures-toward-a-standardized-modelbased-approach/A00BECC935D1BD4915144F6985193766).
 
 Fang, Shaohua, & **Wu, Zhiyi** (October 2022). _Syntactic prediction in L2 learners: Evidence from English disjunction processing_. International Review of Applied Linguistics in Language Teaching. doi: [0.1515/iral-2021-0223](https://www.degruyter.com/document/doi/10.1515/iral-2021-0223/html?lang=en). ([full text](https://drive.google.com/file/d/1QQyZiB2dOy7eWyPA8qM-15bBe4GB6ZVV/view?usp=sharing))
