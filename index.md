@@ -23,6 +23,10 @@ I am currently working with [Kira Gor](https://sllc.umd.edu/directory/kira-gor) 
 
 In the meantime, I work with [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang) on the second-language-to-first-language semantic priming effects by using both the more traditional Lexical Decision Task and the less influential Semantic Categorization Task.
 
+**The Acquisition of Lexical Tones by Second Language Learners**
+
+I have gotten interested in learning how various factors could influence the perception and production of lexical tones, mainly in Mandarin Chinese, by late learners.
+
 
 ## **Presentations**
 
