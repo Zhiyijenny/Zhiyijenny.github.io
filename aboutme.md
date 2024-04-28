@@ -10,5 +10,3 @@ I am a psycholinguistic researcher and a fourth-year [PhD student](https://arhus
 **How to pronounce my first name:** /tʂʅ i/ _"Gee-Eee" also works_
 
 **Email:** zhiyiw1@umd.edu
-
-![my photo](Poster.jpg)
