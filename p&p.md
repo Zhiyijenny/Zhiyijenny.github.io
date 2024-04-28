@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications & Presentations
+---
+
 ## **Publications**
 
 Zhang, Nan, & **Wu, Zhiyi**, & Min, Wang (under review). _Cross-Language Phonological Activation in Bilingual Visual Word Recognition: A Meta-Analysis_.
