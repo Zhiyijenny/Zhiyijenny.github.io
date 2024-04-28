@@ -1,6 +1,6 @@
 ![my photo](Bruno.jpg)
 
-I am a third-year [PhD student](https://arhusynergy.umd.edu/graduate-research/VoicesBlog#Secrets) in the [Second Language Acquisition program](https://sllc.umd.edu/directory/zhiyi-jenny-wu) at University of Maryland - College Park (UMCP). I work with [Kira Gor](https://sllc.umd.edu/directory/kira-gor) and [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang). My research interests include the learning and processing of second language phonology, lexical units, and syntax, from both the psycholinguistic and the neurolinguistic perspectives.
+I am a psycholinguistic researcher and a fourth-year [PhD student](https://arhusynergy.umd.edu/graduate-research/VoicesBlog#Secrets) in the [Second Language Acquisition program](https://sllc.umd.edu/directory/zhiyi-jenny-wu) at the University of Maryland - College Park (UMCP). I work under the guidance of [Kira Gor](https://sllc.umd.edu/directory/kira-gor), [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang), and [Bronson Hui](https://bronson-hui.github.io/index.html). My research focuses on the acquisition and processing of various aspects of second language, including phonology, lexical units, syntax, and semantics, from the psycholinguistic perspective. Additionally, I am interested in examining the reliability of psycholinguistics measures commonly used in second language research, aiming to contribute to the development of more robust methodologies in the field.
 
 **How to pronounce my first name:** /tʂʅ i/ _"Gee-Eee" also works_
 
@@ -10,27 +10,31 @@ I am a third-year [PhD student](https://arhusynergy.umd.edu/graduate-research/Vo
 
 
 # **Research**
-I'm interested in how the language(s) we already know affect how we process and learn a new language, and how the smaller units of the language are represented in the mind and the brain. 
+I'm interested in how smaller language units are represented in the mind and influence how we process and learn a language. 
 
 ## **Current Research**
 
-**First-language Influence on Second-language Processing**
+**Influence of Native-Language Allophony on Nonnative Phonemic and Phonolexical Representations**
 
-I am currently working with [Kira Gor](https://sllc.umd.edu/directory/kira-gor) on the learning of nonnative phonology as well as words. I examine and compare learners of Spanish who speak American English and Mandarin Chinese as their first languages. 
+Under the mentorship of [Kira Gor](https://sllc.umd.edu/directory/kira-gor), I have been investigating the impact of phonemic and allophonic representations on the phonological and lexical processing of late language learners within the auditory domain. My research focused on learners of Spanish who speak American American English and Mandarin Chinese as their first languages/
 
 
 **Semantic Priming Effects in different word processing tasks**
 
-In the meantime, I work with [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang) on the second-language-to-first-language semantic priming effects by using both the more traditional Lexical Decision Task and the less influential Semantic Categorization Task.
+Working with [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang), I will investigate the nuances of semantic priming effects among second language learners by distinguishing between associative and semantic relatedness. 
+
+**The Reliability of Psycholinguistic Measures**
+
+For decades, psycholinguistic researchers have relied on various measures, particularly those based on reaction times, to gain insights into the human mind. However, recent studies have called into question the reliability of these long-standing tools. Under the guidance of [Bronson Hui](https://sllc.umd.edu/directory/bronson-hui) and through collaboration with him, I have been investigating the reliability of psycholinguistic tasks, e.g., lexical decision, and exploring potential ways to improve it.
 
 **The Acquisition of Lexical Tones by Second Language Learners**
 
-I have gotten interested in learning how various factors could influence the perception and production of lexical tones, mainly in Mandarin Chinese, by late learners.
+Another research interest is the influence of various factors on late learners' perception and production of lexical tones, mainly in Mandarin Chinese.
 
 
 ## **Presentations**
 
-'**The role of native phonology in speech perception and phonolexical encoding among Spanish learners.**' (March 2023).An individial paper presentation at _American Association for Applied Linguistics Annual Conference_.
+'**The role of native phonology in speech perception and phonolexical encoding among Spanish learners.**' (March 2023).An individual paper presentation at _American Association for Applied Linguistics Annual Conference_.
 
 '**How do language(s) we know influence how we learn a new language?**' (October 2022). A poster presentation at the Language Science Day at UMCP.
 
@@ -39,6 +43,10 @@ I have gotten interested in learning how various factors could influence the per
 ‘**Syntactic prediction in L2 learners**.’ (September 2022). A co-presentation with [Shaohua Fang](https://www.researchgate.net/profile/Shaohua-Fang-3) at the SLA seminar in the Second Language Acquisition graduate program at UMCP.
 
 ## **Publications**
+
+Zhang, Nan, & **Wu, Zhiyi**, & Min, Wang (under review). _Cross-Language Phonological Activation in Bilingual Visual Word Recognition: A Meta-Analysis_.
+
+Toda-Cosi, Mireia, **Wu, Zhiyi**, & Pandža, Nick B (in press). _Online Data Collection in Applied Linguistics_. In K. Sadeghi (Ed) _Routledge handbook of technological advances in researching language learning_. Routledge. ([preprint](https://osf.io/pxfc4))
 
 **Wu, Zhiyi**, & Hui, Bronson (September 2023). _Using a statistical model to assess how reliable response time differences are_. _OASIS Summary_ of Hui & Wu (2023) in _Studies in Second Language Acquisition_. ([full_text](https://oasis-database.org/concern/summaries/h415pb356?locale=en))
 
