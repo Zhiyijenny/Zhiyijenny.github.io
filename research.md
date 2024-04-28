@@ -1,8 +1,3 @@
-# **Research Interests**
-I'm interested in how smaller language units are represented in the mind and influence how we process and learn a language. 
-
-## **Current Research**
-
 **Influence of Native-Language Allophony on Nonnative Phonemic and Phonolexical Representations**
 
 Under the mentorship of [Kira Gor](https://sllc.umd.edu/directory/kira-gor), I have been investigating the impact of phonemic and allophonic representations on the phonological and lexical processing of late language learners within the auditory domain. My research focused on learners of Spanish who speak American American English and Mandarin Chinese as their first languages/
