@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![my photo](Bruno.jpg)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a psycholinguistic researcher and a fourth-year [PhD student](https://arhusynergy.umd.edu/graduate-research/VoicesBlog#Secrets) in the [Second Language Acquisition program](https://sllc.umd.edu/directory/zhiyi-jenny-wu) at the University of Maryland - College Park (UMCP). I work under the guidance of [Kira Gor](https://sllc.umd.edu/directory/kira-gor), [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang), and [Bronson Hui](https://bronson-hui.github.io/index.html). My research focuses on the acquisition and processing of various aspects of second language, including phonology, lexical units, syntax, and semantics, from the psycholinguistic perspective. Additionally, I am interested in examining the reliability of psycholinguistics measures commonly used in second language research, aiming to contribute to the development of more robust methodologies in the field.
 
-What else do you need?
+**How to pronounce my first name:** /tʂʅ i/ _"Gee-Eee" also works_
 
-### My story
+**Email:** zhiyiw1@umd.edu
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![my photo](Poster.jpg)
