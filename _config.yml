@@ -50,10 +50,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "zhiyiw1@umd.com"
-  twitter: daattali
+#  twitter: daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: zhiyi-wu-391655117
+#  linkedin: zhiyi-wu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -68,7 +68,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
   ORCID: 0000-0001-9717-7213
-  google-scholar: "https://scholar.google.com/citations?user=SYOYY6kAAAAJ&hl=en"
+# google-scholar: "https://scholar.google.com/citations?user=SYOYY6kAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
