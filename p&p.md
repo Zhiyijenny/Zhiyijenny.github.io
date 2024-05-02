@@ -17,9 +17,9 @@ Fang, Shaohua, & **Wu, Zhiyi** (October 2022). _Syntactic prediction in L2 learn
 
 Wiener, Seth, Gao, Zhe, Li, Xiaomeng, & **Wu, Zhiyi** (May 2022). _Acquisition of non-sibilant anterior English fricatives by adult second language learners_. Journal of Second Language Pronunciation. doi: [10.1075/jslp.20067.wie](https://benjamins.com/catalog/jslp.20067.wie). ([full text](https://drive.google.com/file/d/1LMNdfB8zkwZwmVG5BKmL3psFj6LdbSTO/view?usp=sharing))
 
-Fang, Shaohua, & **Wu, Zhiyi**. _Book Review: A. Godfroid: Eye Tracking in Second Language Acquisition and Bilingualism: A Research Synthesis and Methodological Guide (2019) 《二语和双语语境下的眼动：研究综述和技术指南》评介_. [Foreign Language Teaching and Research](http://old.fltr.ac.cn/CN/Y2021/V53/I4/628), 53(4), 628-632. 
+Fang, Shaohua, & **Wu, Zhiyi** (July 2021). _Book Review: A. Godfroid: Eye Tracking in Second Language Acquisition and Bilingualism: A Research Synthesis and Methodological Guide (2019) 《二语和双语语境下的眼动：研究综述和技术指南》评介_. [Foreign Language Teaching and Research](http://old.fltr.ac.cn/CN/Y2021/V53/I4/628), 53(4), 628-632. 
 
-Li, Yan, & **Wu, Zhiyi**. _Disyllabic Tone Sandhi and Neutral Tone Patterns in Yichang Dialect_. 2018 International Conference on Asian Language Processing (IALP), 1-7. IEEE. doi: [10.1109/IALP.2018.8629205](https://ieeexplore.ieee.org/document/8629205).
+Li, Yan, & **Wu, Zhiyi** (January 2019). _Disyllabic Tone Sandhi and Neutral Tone Patterns in Yichang Dialect_. 2018 International Conference on Asian Language Processing (IALP), 1-7. IEEE. doi: [10.1109/IALP.2018.8629205](https://ieeexplore.ieee.org/document/8629205).
 
 
 ## **Presentations**
