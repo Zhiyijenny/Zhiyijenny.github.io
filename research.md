@@ -2,7 +2,7 @@
 
 **Influence of Native-Language Allophony on Nonnative Phonemic and Phonolexical Representations**
 
-Under the mentorship of [Kira Gor](https://sllc.umd.edu/directory/kira-gor), I have been investigating the impact of phonemic and allophonic representations on the phonological and lexical processing of late language learners within the auditory domain. My research focused on learners of Spanish who speak American American English and Mandarin Chinese as their first languages/
+Under the mentorship of [Kira Gor](https://sllc.umd.edu/directory/kira-gor), I have been investigating the impact of phonemic and allophonic representations on the phonological and lexical processing of late language learners within the auditory domain. My research focused on learners of Spanish who speak American American English and Mandarin Chinese as their first languages.
 
 
 **Semantic Priming Effects in different word processing tasks**
