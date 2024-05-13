@@ -5,7 +5,7 @@ title: Publications & Presentations
 
 ## **Publications**
 
-Zhang, Nan, & **Wu, Zhiyi**, & Min, Wang (under review). _Cross-Language Phonological Activation in Bilingual Visual Word Recognition: A Meta-Analysis_.
+Zhang, Nan, & **Wu, Zhiyi**, & Min, Wang (under revision). _Cross-Language Phonological Activation in Bilingual Visual Word Recognition: A Meta-Analysis_.
 
 Toda-Cosi, Mireia, **Wu, Zhiyi**, & Pandža, Nick B (in press). _Online Data Collection in Applied Linguistics_. In K. Sadeghi (Ed) _Routledge handbook of technological advances in researching language learning_. Routledge. ([preprint](https://osf.io/pxfc4))
 
