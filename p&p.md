@@ -5,7 +5,7 @@ title: Publications & Presentations
 
 ## **Publications**
 
-**Wu, Zhiyi** & Gor, Kira (submitted). _Allophonic and Phonemic Tap Dance: The Influence of Native Phonology on Nonnative Phonetic Perception and Lexical Encoding_
+**Wu, Zhiyi** & Gor, Kira (under review). _Allophonic and Phonemic Tap Dance: The Influence of Native Phonology on Nonnative Phonetic Perception and Lexical Encoding_
 
 Zhang, Nan, & **Wu, Zhiyi**, & Min, Wang (under revision). _Cross-Language Phonological Activation in Bilingual Visual Word Recognition: A Meta-Analysis_.
 
