@@ -5,10 +5,6 @@ title: Publications & Presentations
 
 ## **Publications**
 
-**Wu, Zhiyi** & Gor, Kira (under review). _Allophonic and Phonemic Tap Dance: The Influence of Native Phonology on Nonnative Phonetic Perception and Lexical Encoding_
-
-Zhang, Nan, & **Wu, Zhiyi**, & Min, Wang (under revision). _Cross-Language Phonological Activation in Bilingual Visual Word Recognition: A Meta-Analysis_.
-
 Toda-Cosi, Mireia, **Wu, Zhiyi**, & Pandža, Nick B (in press). _Online Data Collection in Applied Linguistics_. In K. Sadeghi (Ed) _Routledge handbook of technological advances in researching language learning_. Routledge. ([preprint](https://osf.io/pxfc4))
 
 **Wu, Zhiyi**, & Hui, Bronson (September 2023). _Using a statistical model to assess how reliable response time differences are_. _OASIS Summary_ of Hui & Wu (2023) in _Studies in Second Language Acquisition_. ([full_text](https://oasis-database.org/concern/summaries/h415pb356?locale=en))
