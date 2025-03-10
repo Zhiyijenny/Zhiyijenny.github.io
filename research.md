@@ -11,4 +11,4 @@ For decades, psycholinguistic researchers have relied on various measures, parti
 
 **Semantic Priming Effects in Different Word Processing Tasks**
 
-Working with [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang), I will investigate the nuances of semantic priming effects among second language learners by distinguishing between associative and semantic relatedness. 
+Working with [Nan Jiang](https://sllc.umd.edu/directory/nan-jiang), I am investigating how bilinguals organize and access word meanings in their different languages. My research uses priming in lexical decision tasks to examine whether semantic networks are equally well-developed in first and second languages.
