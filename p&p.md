@@ -9,7 +9,7 @@ title: Publications & Presentations
 
 Zhang, Nan, **Wu, Zhiyi**, & Min, Wang (accepted). _Cross-language phonological activation in bilingual visual word recognition: A meta-analysis_. Psychonomic Bulletin & Review.
 
-Toda-Cosi, Mireia, **Wu, Zhiyi**, & Pandža, Nick B (2025). _Online Data Collection in Applied Linguistics_. In K. Sadeghi (Ed) _Routledge handbook of technological advances in researching language learning_. Routledge. doi: [10.4324/9781003459088] (https://www.taylorfrancis.com/chapters/edit/10.4324/9781003459088-3/online-data-collection-applied-linguistics-mireia-toda-cosi-zhiyi-wu-nick-pand%C5%BEa?context=ubx&refId=dc00ad74-b4d6-43fe-9dd4-8570bf4ba7a6). ([preprint](https://osf.io/pxfc4))
+Toda-Cosi, Mireia, **Wu, Zhiyi**, & Pandža, Nick B (2025). _Online Data Collection in Applied Linguistics_. In K. Sadeghi (Ed) _Routledge handbook of technological advances in researching language learning_. Routledge. doi: [10.4324/9781003459088](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003459088-3/online-data-collection-applied-linguistics-mireia-toda-cosi-zhiyi-wu-nick-pand%C5%BEa?context=ubx&refId=dc00ad74-b4d6-43fe-9dd4-8570bf4ba7a6). ([preprint](https://osf.io/pxfc4))
 
 Hui, Bronson, & **Wu, Zhiyi** (2024). _Estimating Reliability for Response Time Difference Measures: Towards a Standardized, Model-based Approach_. Studies in Second Language Acquisition. doi: [10.1017/S027226312300027X](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/estimating-reliability-for-responsetime-difference-measures-toward-a-standardized-modelbased-approach/A00BECC935D1BD4915144F6985193766).
 
