@@ -3,7 +3,7 @@ layout: page
 title: Research Projects
 ---
 
-<center><img src="Poster.jpg" alt="LSD-poster" width="500"></center>
+<center><img src="assets/img/Poster.jpg" alt="LSD-poster" width="500"/></center>
 <figcaption style="font-size: 0.8em; font-style: italic;">Presenting the semantic priming project at Language Science Day 2023, College Park, MD</figcaption>
 
 ## Late language learners are everywhere. 
