@@ -24,7 +24,7 @@ navbar-links:
   Research: "research"
   Publications & Presentations: "p&p"
 #  My Biggest Supporters: "kitties"
-  CV: "zhiyiwu-cv-0317.pdf"
+  CV: "zhiyiwu-cv-0402.pdf"
 
 ################
 # --- Logo --- #
@@ -51,10 +51,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "zhiyiw1@umd.com"
-#  twitter: daattali
+  X: ZhiyiWu_SLA
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: zhiyi-wu
+  linkedin: zhiyi-wu-391655117
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
