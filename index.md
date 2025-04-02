@@ -3,7 +3,8 @@ layout: page
 title: Zhiyi Wu
 ---
 
-![my photo](Bryce.JPG)
+<center><img src="/assets/img/Bryce.JPG" alt="Bryce Photo" width="500"/></center>
+
 
 **Welcome to my website!**
 
