@@ -3,7 +3,7 @@ layout: page
 title: Research Projects
 ---
 
-<center><img src="./assets/img/Poster.jpg" alt="LSD-poster" width="500"/></center>
+<center><img src="/assets/img/Poster.jpg" alt="LSD-poster" width="500"/></center>
 <figcaption style="font-size: 0.8em; font-style: italic;">Presenting the semantic priming project at Language Science Day 2023, College Park, MD</figcaption>
 
 ## Late language learners are everywhere. 
@@ -38,7 +38,7 @@ While we were celebrating the recognition of the method with ice cream, a replic
 Nope. We successfully ruled out unreliability as an explanation for null effects, because even after we improved the reliability of those IC measures with model-based approaches, we did not see any stars coming from the correlation and regression analyses. The paper, based on our reanalysis of Huensch's (2024) datasets, has been accepted (pending revisions) by SSLA. While you patiently wait for our revisions to be complete and the paper to be published, if you want a preview, you can see the slides for our AAAL conference talk [here](https://docs.google.com/presentation/d/1uBD1XfeauY1oTm13Yb3KUiDGJaBn3scHv-0sLwnDm_w/edit?usp=drive_link) and also play with our code that is publicly shared on [OSF](https://osf.io/bng82/). **Once again, I support open science!**
 
 <figure>
-    <center><img src="AAAL-presentation.JPEG" alt="Presenting the reliability project at AAAL 2025, Denver, CO" width="386"></center>
+    <center><img src="/assets/img/AAAL-presentation.JPEG" alt="Presenting the reliability project at AAAL 2025, Denver, CO" width="386"></center>
     <figcaption style="font-size: 0.8em; font-style: italic;">Presenting the reliability project at AAAL 2025, Denver, CO</figcaption>
 </figure>
 
