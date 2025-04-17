@@ -23,8 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Research: "research"
   Publications: "Publications"
-#  My Biggest Supporters: "kitties"
   CV: "zhiyiwu-cv-0402.pdf"
+  Workshops: "workshops"
+
 
 ################
 # --- Logo --- #
