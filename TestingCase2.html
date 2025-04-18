@@ -397,32 +397,10 @@ d %&gt;% group_by(Congruency) %&gt;% get_summary_stats(RT, type = &quot;mean_sd&
 ##   &lt;chr&gt;       &lt;fct&gt;    &lt;dbl&gt; &lt;dbl&gt; &lt;dbl&gt;
 ## 1 Congruent   RT        1608  479.  147.
 ## 2 Incongruent RT        1525  518.  180.</code></pre>
-<pre class="r"><code># Mean RT for Congruent Condition is shorter than Incongruent Condition
-
-# We already know that inverse-transformation is the best for this dataset, so we apply that to the RT
-d$RT = -1/(d$RT)</code></pre>
+<pre class="r"><code># Mean RT for Congruent Condition is shorter than Incongruent Condition</code></pre>
 </div>
 <div id="step-1-split-data-into-two-halves" class="section level3">
 <h3>Step 1: Split Data into Two Halves</h3>
-<pre class="r"><code>library(psych)</code></pre>
-<pre><code>## 
-## Attaching package: &#39;psych&#39;</code></pre>
-<pre><code>## The following objects are masked from &#39;package:ggplot2&#39;:
-## 
-##     %+%, alpha</code></pre>
-<pre class="r"><code>library(car)</code></pre>
-<pre><code>## Loading required package: carData</code></pre>
-<pre><code>## 
-## Attaching package: &#39;car&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:psych&#39;:
-## 
-##     logit</code></pre>
-<pre><code>## The following object is masked from &#39;package:dplyr&#39;:
-## 
-##     recode</code></pre>
-<pre><code>## The following object is masked from &#39;package:purrr&#39;:
-## 
-##     some</code></pre>
 <pre class="r"><code># Split the data in to two halves 
 de = d %&gt;% filter(ItemNo %% 2 == 0)
 do = d %&gt;% filter(ItemNo %% 2 == 1)</code></pre>
@@ -438,7 +416,7 @@ library(blme)</code></pre>
 <pre><code>## The following objects are masked from &#39;package:tidyr&#39;:
 ## 
 ##     expand, pack, unpack</code></pre>
-<pre class="r"><code>m_de = blmer(RT ~ Congruency + (1+Congruency|Subject) + 
+<pre class="r"><code>m_de = blmer(-1/RT ~ Congruency + (1+Congruency|Subject) + 
                (1+Congruency|ItemNo), 
              data = de, 
              control=lmerControl(optimizer = &quot;nloptwrap&quot;,
@@ -446,7 +424,7 @@ library(blme)</code></pre>
                                                   &quot;NLOPT_LN_NELDERMEAD&quot;, 
                                                 maxit = 2e5)))
 
-m_do = blmer(RT ~ Congruency + (1+Congruency|Subject) + 
+m_do = blmer(-1/RT ~ Congruency + (1+Congruency|Subject) + 
                (1+Congruency|ItemNo),
              data = do, 
              control=lmerControl(optimizer = &quot;nloptwrap&quot;,
@@ -477,8 +455,26 @@ person = inner_join(person_rand_e, person_rand_o,
 <h3><strong>Step 5: Correlation between Even-Numbered and Odd-Numbered
 Sets</strong></h3>
 <pre class="r"><code>#check the correlation between even- and odd-numbered sets
-
-### Pearson
+library(psych)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;psych&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:ggplot2&#39;:
+## 
+##     %+%, alpha</code></pre>
+<pre class="r"><code>library(car)</code></pre>
+<pre><code>## Loading required package: carData</code></pre>
+<pre><code>## 
+## Attaching package: &#39;car&#39;</code></pre>
+<pre><code>## The following object is masked from &#39;package:psych&#39;:
+## 
+##     logit</code></pre>
+<pre><code>## The following object is masked from &#39;package:dplyr&#39;:
+## 
+##     recode</code></pre>
+<pre><code>## The following object is masked from &#39;package:purrr&#39;:
+## 
+##     some</code></pre>
+<pre class="r"><code>### Pearson
 print(corr.test(person$CongruencyIncongruent_even, 
                 person$CongruencyIncongruent_odd), 
       short = FALSE) # .72</code></pre>
@@ -506,7 +502,7 @@ WRS2::pbcor(person$CongruencyIncongruent_even,
 ## Test statistic: 7.8741
 ## p-value: 0 
 ## 
-## Bootstrap CI: [0.5853; 0.8332]</code></pre>
+## Bootstrap CI: [0.5636; 0.8321]</code></pre>
 <p>In practice, once you’ve established good reliability, you would use
 the random slopes from your full model (using all items) as your
 individual difference measure in further analyses.</p>
