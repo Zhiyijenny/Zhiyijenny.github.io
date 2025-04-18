@@ -20,3 +20,7 @@ For demos of how to run reliability analysis based on random slopes extracted fr
 [Testing case 1](RandomSlopes.html)
 
 [Testing case 2](TestingCase2.html)
+
+For a demo of how to use the random slopes extracted from linear mixed-effects modeling as a predictor individual difference measure to examine its predictive relationship with another outcome variable, here is one testing case:
+
+[Testing case](RandomSlopes-relationship.html)
