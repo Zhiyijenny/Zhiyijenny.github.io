@@ -428,25 +428,6 @@ by 2, so <code>ItemNo %% 2 == 0</code> selects all even numbers.</p>
 <p>This splitting approach ensures that both halves contain a
 representative sample of items from throughout your experiment, which is
 important for a valid reliability assessment.</p>
-<pre class="r"><code>library(psych)</code></pre>
-<pre><code>## 
-## Attaching package: &#39;psych&#39;</code></pre>
-<pre><code>## The following objects are masked from &#39;package:ggplot2&#39;:
-## 
-##     %+%, alpha</code></pre>
-<pre class="r"><code>library(car)</code></pre>
-<pre><code>## Loading required package: carData</code></pre>
-<pre><code>## 
-## Attaching package: &#39;car&#39;</code></pre>
-<pre><code>## The following object is masked from &#39;package:psych&#39;:
-## 
-##     logit</code></pre>
-<pre><code>## The following object is masked from &#39;package:dplyr&#39;:
-## 
-##     recode</code></pre>
-<pre><code>## The following object is masked from &#39;package:purrr&#39;:
-## 
-##     some</code></pre>
 <pre class="r"><code># Split the data in to two halves for split-half reliability
 d$ItemNo = parse_number(d$ItemNo) # extracts numeric portions from strings
 
@@ -587,7 +568,26 @@ considered good, while those above .70 are acceptable. If you get
 results substantially lower than these, you might want to reconsider
 your experimental design or increase the number of items.</p>
 <pre class="r"><code>#check the correlation between even- and odd-numbered sets
-### Pearson
+library(psych)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;psych&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:ggplot2&#39;:
+## 
+##     %+%, alpha</code></pre>
+<pre class="r"><code>library(car)</code></pre>
+<pre><code>## Loading required package: carData</code></pre>
+<pre><code>## 
+## Attaching package: &#39;car&#39;</code></pre>
+<pre><code>## The following object is masked from &#39;package:psych&#39;:
+## 
+##     logit</code></pre>
+<pre><code>## The following object is masked from &#39;package:dplyr&#39;:
+## 
+##     recode</code></pre>
+<pre><code>## The following object is masked from &#39;package:purrr&#39;:
+## 
+##     some</code></pre>
+<pre class="r"><code>### Pearson
 print(corr.test(person$Conditionunrelated_even, 
                 person$Conditionunrelated_odd), 
       short = FALSE) #.85</code></pre>
@@ -615,7 +615,7 @@ WRS2::pbcor(person$Conditionunrelated_even,
 ## Test statistic: 15.6386
 ## p-value: 0 
 ## 
-## Bootstrap CI: [0.7432; 0.8729]</code></pre>
+## Bootstrap CI: [0.7423; 0.8683]</code></pre>
 </div>
 </div>
 </div>
