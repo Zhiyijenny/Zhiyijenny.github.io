@@ -11,7 +11,7 @@
 
 
 
-<title>Random Slopes as Measures</title>
+<title>Random Slopes as Measures - Testing Case 1</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -348,11 +348,17 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Random Slopes as Measures</h1>
+<h1 class="title toc-ignore">Random Slopes as Measures - Testing Case
+1</h1>
 
 </div>
 
 
+<div id="testing-reliability-with-random-slopes-extracted-from-linear-mixed-effects-modeling-lmm" class="section level1">
+<h1><strong>Testing Reliability with Random Slopes Extracted from Linear
+Mixed-Effects Modeling (LMM)</strong></h1>
+<div id="testing-case-1" class="section level2">
+<h2>Testing Case 1</h2>
 <div id="zhiyi-wu" class="section level4">
 <h4><a href="https://zhiyijenny.github.io/"><em>Zhiyi Wu</em></a></h4>
 <p>When you have reaction time data from some psycholinguistics studies,
@@ -365,15 +371,20 @@ the task (e.g., inhibitory control) relates to another construct
 (phonological processing). If you have multiple tasks that target the
 similar construct (e.g., inhibitory control), you can examine inter-task
 correlations (e.g., Stroop task versus Simon task).</p>
-</div>
-<div id="setting-up" class="section level1">
-<h1><strong>Setting Up</strong></h1>
+<p>This dataset is a subset of data for masked-repetition priming from
+the Hui et al. (2022b) dataset, available on Open Science Framework
+(osf.io/uyfh5/). Read more about the original study here:
+osf.io/preprints/osf/dwjmn_v1.</p>
 <pre class="r"><code># Set the working directory to the location of this R Markdown file
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
-# Load necessary libraries
+
+# Import dataset
+d = read.csv(&quot;H-data.csv&quot;)
+
+# Load necessary libraries for data manipulation
 library(tidyr)
-library(tidyverse) # Notice there are conflicts between these two packages</code></pre>
+library(tidyverse)</code></pre>
 <pre><code>## ── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──
 ## ✔ dplyr     1.1.4     ✔ purrr     1.0.2
 ## ✔ forcats   1.0.0     ✔ readr     2.1.5
@@ -383,62 +394,15 @@ library(tidyverse) # Notice there are conflicts between these two packages</code
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()
 ## ℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors</code></pre>
-<pre class="r"><code># when using one of the conflicted functions, remember to add specific name in the front
-# e.g., instead of writing &quot;filter()&quot;, write specifically &quot;dplyr::filter()&quot; or &quot;stats::filter()&quot;
-library(psych)</code></pre>
-<pre><code>## 
-## Attaching package: &#39;psych&#39;
-## 
-## The following objects are masked from &#39;package:ggplot2&#39;:
-## 
-##     %+%, alpha</code></pre>
-<pre class="r"><code>library(lme4)</code></pre>
-<pre><code>## Loading required package: Matrix
-## 
-## Attaching package: &#39;Matrix&#39;
-## 
-## The following objects are masked from &#39;package:tidyr&#39;:
-## 
-##     expand, pack, unpack</code></pre>
-<pre class="r"><code>library(lmerTest)</code></pre>
-<pre><code>## 
-## Attaching package: &#39;lmerTest&#39;
-## 
-## The following object is masked from &#39;package:lme4&#39;:
-## 
-##     lmer
-## 
-## The following object is masked from &#39;package:stats&#39;:
-## 
-##     step</code></pre>
-<pre class="r"><code>library(car)</code></pre>
-<pre><code>## Loading required package: carData
-## 
-## Attaching package: &#39;car&#39;
-## 
-## The following object is masked from &#39;package:psych&#39;:
-## 
-##     logit
-## 
-## The following object is masked from &#39;package:dplyr&#39;:
-## 
-##     recode
-## 
-## The following object is masked from &#39;package:purrr&#39;:
-## 
-##     some</code></pre>
-<pre class="r"><code>library(rstatix)</code></pre>
+<pre class="r"><code># Check the descriptive data
+library(rstatix)</code></pre>
 <pre><code>## 
 ## Attaching package: &#39;rstatix&#39;
 ## 
 ## The following object is masked from &#39;package:stats&#39;:
 ## 
 ##     filter</code></pre>
-<pre class="r"><code># Import dataset
-d = read.csv(&quot;H-data.csv&quot;)
-
-# Check the descriptive data
-## To get the descriptives (means &amp; standard deviations of the two conditions) of these two datasets
+<pre class="r"><code>## To get the descriptives (means &amp; standard deviations of the two conditions) of these two datasets
 d %&gt;% group_by(Condition) %&gt;% get_summary_stats(Reaction.Time, type = &quot;mean_sd&quot;)</code></pre>
 <pre><code>## # A tibble: 2 × 5
 ##   Condition variable          n  mean    sd
@@ -447,11 +411,8 @@ d %&gt;% group_by(Condition) %&gt;% get_summary_stats(Reaction.Time, type = &quo
 ## 2 unrelated Reaction.Time  4227  686.  231.</code></pre>
 <pre class="r"><code># Mean RT for Related Condition is shorter than Unrelated Condition</code></pre>
 </div>
-<div id="testing-reliability-with-random-slopes-extracted-from-linear-mixed-effects-modeling-lmm" class="section level1">
-<h1><strong>Testing Reliability with Random Slopes Extracted from Linear
-Mixed-Effects Modeling (LMM)</strong></h1>
-<div id="step-1-split-data-into-two-halves" class="section level2">
-<h2>Step 1: Split Data into Two Halves</h2>
+<div id="step-1-split-data-into-two-halves" class="section level3">
+<h3>Step 1: Split Data into Two Halves</h3>
 <p>The first step in calculating split-half reliability is to divide our
 data set into two comparable halves. We typically split by even and odd
 item numbers.</p>
@@ -467,14 +428,33 @@ by 2, so <code>ItemNo %% 2 == 0</code> selects all even numbers.</p>
 <p>This splitting approach ensures that both halves contain a
 representative sample of items from throughout your experiment, which is
 important for a valid reliability assessment.</p>
+<pre class="r"><code>library(psych)</code></pre>
+<pre><code>## 
+## Attaching package: &#39;psych&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:ggplot2&#39;:
+## 
+##     %+%, alpha</code></pre>
+<pre class="r"><code>library(car)</code></pre>
+<pre><code>## Loading required package: carData</code></pre>
+<pre><code>## 
+## Attaching package: &#39;car&#39;</code></pre>
+<pre><code>## The following object is masked from &#39;package:psych&#39;:
+## 
+##     logit</code></pre>
+<pre><code>## The following object is masked from &#39;package:dplyr&#39;:
+## 
+##     recode</code></pre>
+<pre><code>## The following object is masked from &#39;package:purrr&#39;:
+## 
+##     some</code></pre>
 <pre class="r"><code># Split the data in to two halves for split-half reliability
 d$ItemNo = parse_number(d$ItemNo) # extracts numeric portions from strings
 
 de = d %&gt;% filter(ItemNo %% 2 == 0)
 do = d %&gt;% filter(ItemNo %% 2 == 1)</code></pre>
 </div>
-<div id="step-2-fitting-models-to-the-datasets" class="section level2">
-<h2><strong>Step 2: Fitting models to the datasets</strong></h2>
+<div id="step-2-fitting-models-to-the-datasets" class="section level3">
+<h3><strong>Step 2: Fitting models to the datasets</strong></h3>
 <p>After splitting our data, we fit separate mixed-effects models to
 each half. We’re using the <code>blme</code> package, which implements
 Bayesian linear mixed-effects models. These can be more stable than
@@ -501,9 +481,15 @@ recommendations.</p>
 might need to try different optimizers or simplify your random effects
 structure.</p>
 <pre class="r"><code>library(optimx)
-library(blme)
-
-## fit models for even and odd numbered items (Bayesian &amp; Generalized LMM)
+library(blme)</code></pre>
+<pre><code>## Loading required package: lme4</code></pre>
+<pre><code>## Loading required package: Matrix</code></pre>
+<pre><code>## 
+## Attaching package: &#39;Matrix&#39;</code></pre>
+<pre><code>## The following objects are masked from &#39;package:tidyr&#39;:
+## 
+##     expand, pack, unpack</code></pre>
+<pre class="r"><code>## fit models for even and odd numbered items (Bayesian &amp; Generalized LMM)
 
 m_de = blmer(-1/Reaction.Time ~ Condition + 
                (1+Condition|Subject) + 
@@ -519,8 +505,8 @@ m_do = blmer(-1/Reaction.Time ~ Condition +
              control=lmerControl(optimizer=&quot;optimx&quot;,
                                  optCtrl=list(method=&quot;nlminb&quot;)))</code></pre>
 </div>
-<div id="step-3-extract-random-slopes" class="section level2">
-<h2><strong>Step 3: Extract Random Slopes</strong></h2>
+<div id="step-3-extract-random-slopes" class="section level3">
+<h3><strong>Step 3: Extract Random Slopes</strong></h3>
 <p>Now we come to the key step in our approach: extracting the random
 slopes for each participant from both halves of our data. These random
 slopes represent our individual difference measure.</p>
@@ -548,9 +534,9 @@ head(person_rand_e) # check how this dataset looks like: there are intercepts an
 person_rand_o=data.frame(ranef(m_do)$Subject)
 person_rand_o$Subject= row.names(person_rand_o)</code></pre>
 </div>
-<div id="step-4-combine-even-numbered-and-odd-numbered-sets" class="section level2">
-<h2><strong>Step 4: Combine Even-Numbered and Odd-Numbered
-Sets</strong></h2>
+<div id="step-4-combine-even-numbered-and-odd-numbered-sets" class="section level3">
+<h3><strong>Step 4: Combine Even-Numbered and Odd-Numbered
+Sets</strong></h3>
 <p>After extracting random slopes from both models, we join the two data
 sets using an inner join, with Subject as the key. The suffix parameter
 adds “_even” and “_odd” to distinguish columns from each data set.</p>
@@ -581,9 +567,9 @@ head(person) # Take a quick look at what this data frame looks like</code></pre>
 ## 5           2.697453e-06
 ## 6           4.327795e-06</code></pre>
 </div>
-<div id="step-5-correlation-between-even-numbered-and-odd-numbered-sets" class="section level2">
-<h2><strong>Step 5: Correlation between Even-Numbered and Odd-Numbered
-Sets</strong></h2>
+<div id="step-5-correlation-between-even-numbered-and-odd-numbered-sets" class="section level3">
+<h3><strong>Step 5: Correlation between Even-Numbered and Odd-Numbered
+Sets</strong></h3>
 <p>The final step is to calculate the reliability as the correlation
 between the random slopes from the two halves of our data. We use two
 methods:</p>
@@ -629,10 +615,8 @@ WRS2::pbcor(person$Conditionunrelated_even,
 ## Test statistic: 15.6386
 ## p-value: 0 
 ## 
-## Bootstrap CI: [0.7479; 0.8698]</code></pre>
-<p>In practice, once you’ve established good reliability, you would use
-the random slopes from your full model (using all items) as your
-individual difference measure in further analyses.</p>
+## Bootstrap CI: [0.7432; 0.8729]</code></pre>
+</div>
 </div>
 </div>
 
