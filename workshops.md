@@ -15,4 +15,8 @@ TBA.
 
 You should know how to run multilevel modeling by now. And you should know that using a multilevel model can control for the random effects, indexed by random slopes and intercepts of participants and/or items. However, do you know how to use the random slopes as measures of individual differences for further research?
 
-Here is a [demo](RandomSlopes.html) of how to run reliability analysis based on random slopes extracted from linear mixed-effects modeling. 
+For demos of how to run reliability analysis based on random slopes extracted from linear mixed-effects modeling, here are two testing cases:
+
+[Testing case 1](RandomSlopes.html)
+
+[Testing case 2](TestingCase2.html)
