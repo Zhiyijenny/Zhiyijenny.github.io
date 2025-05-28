@@ -3,9 +3,9 @@ layout: page
 title: Recent Publications
 ---
 
-**Wu, Zhiyi**, Jia, Ruirui, & Hui, Bronson (accepted pending revision). _Saving the reliability of inhibitory control measures? An extension of Huensch (2024) and Hui & Wu (2024)_. Studies in Second Language Acquisition. (Presented at AAAL 2025: See [slides](https://docs.google.com/presentation/d/1uBD1XfeauY1oTm13Yb3KUiDGJaBn3scHv-0sLwnDm_w/edit?usp=sharing))
+**Wu, Zhiyi**, Jia, Ruirui, & Hui, Bronson (accepted). _Saving the reliability of inhibitory control measures? An extension of Huensch (2024) and Hui & Wu (2024)_. Studies in Second Language Acquisition. (Presented at AAAL 2025: See [slides](https://docs.google.com/presentation/d/1uBD1XfeauY1oTm13Yb3KUiDGJaBn3scHv-0sLwnDm_w/edit?usp=sharing))
 
-Zhang, Nan, **Wu, Zhiyi**, & Min, Wang (accepted). _Cross-language phonological activation in bilingual visual word recognition: A meta-analysis_. Psychonomic Bulletin & Review.
+Zhang, Nan, **Wu, Zhiyi**, & Min, Wang (2025). _Cross-language phonological activation in bilingual visual word recognition: A meta-analysis_. Psychonomic Bulletin & Review. doi: [10.3758/s13423-025-02692-8](https://link.springer.com/article/10.3758/s13423-025-02692-8)
 
 Toda-Cosi, Mireia, **Wu, Zhiyi**, & Pandža, Nick B (2025). _Online Data Collection in Applied Linguistics_. In K. Sadeghi (Ed) _Routledge handbook of technological advances in researching language learning_. Routledge. doi: [10.4324/9781003459088](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003459088-3/online-data-collection-applied-linguistics-mireia-toda-cosi-zhiyi-wu-nick-pand%C5%BEa?context=ubx&refId=dc00ad74-b4d6-43fe-9dd4-8570bf4ba7a6). ([preprint](https://osf.io/pxfc4))
 
