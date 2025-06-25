@@ -25,4 +25,4 @@ When I am not outdoors, I enjoy playing with my six beloved kitties (2 best budd
 
 **How to pronounce my first name:** /tʂʅ i/ _"Gee-Eee" also works_
 
-**Email:** zhiyiw1@umd.edu
+**Email:** zhiyiw1 [at] umd [dot] edu
