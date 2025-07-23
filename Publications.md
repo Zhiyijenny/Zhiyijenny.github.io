@@ -3,7 +3,7 @@ layout: page
 title: Recent Publications
 ---
 
-**Wu, Zhiyi**, & Toda-Cosi, Mireia (accepted). _From Lab to Web: Replicating Cross-Language Translation Priming Asymmetry in an Online Environment_. Research Methods in Applied Linguistics. (Will be presented at SLRF 2025.)
+**Wu, Zhiyi**, & Toda-Cosi, Mireia (in press). _From Lab to Web: Replicating Cross-Language Translation Priming Asymmetry in an Online Environment_. Research Methods in Applied Linguistics. (Will be presented at SLRF 2025.)
 
 **Wu, Zhiyi**, Jia, Ruirui, & Hui, Bronson (in press). _Saving the reliability of inhibitory control measures? An extension of Huensch (2024) and Hui & Wu (2024)_. Studies in Second Language Acquisition. (Presented at AAAL 2025: See [slides](https://docs.google.com/presentation/d/1uBD1XfeauY1oTm13Yb3KUiDGJaBn3scHv-0sLwnDm_w/edit?usp=sharing))
 
