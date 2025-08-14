@@ -3,7 +3,7 @@ layout: page
 title: Recent Publications
 ---
 
-**Wu, Zhiyi**, Jia, Ruirui, & Hui, Bronson (2025). _Saving the reliability of inhibitory control measures? An extension of Huensch (2024) and Hui & Wu (2024)_. Studies in Second Language Acquisition. doi: [10.1017/S0272263125101095]([https://doi.org/10.1017/S0272263125101095](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/saving-the-reliability-of-inhibitory-control-measures-an-extension-of-huensch-2024-and-hui-and-wu-2024/D87F2E07641C7D842198EBDC7687CEC8)) (Presented at AAAL 2025: See [slides](https://docs.google.com/presentation/d/1uBD1XfeauY1oTm13Yb3KUiDGJaBn3scHv-0sLwnDm_w/edit?usp=sharing))
+**Wu, Zhiyi**, Jia, Ruirui, & Hui, Bronson (2025). _Saving the reliability of inhibitory control measures? An extension of Huensch (2024) and Hui & Wu (2024)_. Studies in Second Language Acquisition. doi: [10.1017/S0272263125101095](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/saving-the-reliability-of-inhibitory-control-measures-an-extension-of-huensch-2024-and-hui-and-wu-2024/D87F2E07641C7D842198EBDC7687CEC8) (Presented at AAAL 2025: See [slides](https://docs.google.com/presentation/d/1uBD1XfeauY1oTm13Yb3KUiDGJaBn3scHv-0sLwnDm_w/edit?usp=sharing))
 
 **Wu, Zhiyi**, & Toda-Cosi, Mireia (2025). _From Lab to Web: Replicating Cross-Language Translation Priming Asymmetry in an Online Environment_. Research Methods in Applied Linguistics. doi: [10.1016/j.rmal.2025.100247](https://www.sciencedirect.com/science/article/pii/S2772766125000680) (Will be presented at SLRF 2025.)
 
