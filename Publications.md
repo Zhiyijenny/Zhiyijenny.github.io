@@ -3,7 +3,7 @@ layout: page
 title: Recent Publications
 ---
 
-**Wu, Zhiyi**, & Gor, Kira (in press). _Allophonic and phonemic tap dance: The influence of native phonology on nonnative phonetic perception and lexical encoding_. Applied Psycholinguistics.
+**Wu, Zhiyi**, & Gor, Kira (2025). _Allophonic and phonemic tap dance: The influence of native phonology on nonnative phonetic perception and lexical encoding_. Applied Psycholinguistics. doi: [10.1017/S0142716425100325](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/allophonic-and-phonemic-tap-dance-the-influence-of-native-phonology-on-nonnative-phonetic-perception-and-lexical-encoding/901CB290B7061D85F234A28FBFCA37F1)
 
 **Wu, Zhiyi**, & Toda-Cosi, Mireia (2025). _From Lab to Web: Replicating Cross-Language Translation Priming Asymmetry in an Online Environment_. Research Methods in Applied Linguistics. doi: [10.1016/j.rmal.2025.100247](https://www.sciencedirect.com/science/article/pii/S2772766125000680) (Presented at SLRF 2025: See [slides](https://docs.google.com/presentation/d/1Ms5fdQNg0s12FvlLcV_-wDTl7bVYNMNkInKtjci9aXc/edit?usp=sharing))
 
