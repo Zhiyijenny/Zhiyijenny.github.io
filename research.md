@@ -24,7 +24,7 @@ _1. Unlike the persistent negative influence of a phonemic mismatch, an allophon
 
 _2. There is a significant relationship between the oddity task performance and lexical decision accuracy among Chinese NSs, but not AE learners_, indicating a close link between phonetic categorization and phonolexical encoding for perceptually challenging phonemes, but not for robustly acquired phonemes.
 
-This paper is currently in press for Applied Psycholinguistics. If you are interested in the topic, feel free to check out the materials, datasets, and analysis publicly shared on [OSF](https://osf.io/v6esc/). **I support open science!**
+If you are interested in the topic, feel free to check out [our paper, named _Allophonic and phonemic tap dance: the influence of native phonology on nonnative phonetic perception and lexical encoding_, on _Applied Psycholinguistics_](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/allophonic-and-phonemic-tap-dance-the-influence-of-native-phonology-on-nonnative-phonetic-perception-and-lexical-encoding/901CB290B7061D85F234A28FBFCA37F1) and the materials, datasets, and analysis that are publicly shared on [OSF](https://osf.io/v6esc/). **I support open science!**
 
 
 ## Project 2: The Reliability of RT-difference-measures
